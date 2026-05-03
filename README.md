@@ -8,6 +8,16 @@ A dark, flat Omarchy theme built on the One Dark palette. Deep near-black backgr
 
 Desktop wallpaper sample: [backgrounds/omarchy.png](backgrounds/omarchy.png)
 
+### Quick Specs
+
+| Item | Value |
+|------|-------|
+| Base look | One Dark-inspired, flat dark UI |
+| Mood | Calm contrast, low glare, forest-tinged accents |
+| Best use | Long coding sessions, terminal-heavy workflows |
+| Accent family | Green-first with balanced semantic colors |
+| Source of truth | `colors.toml` (auto-generates downstream styles) |
+
 ## Color Palette
 
 ### Core Tones
@@ -72,6 +82,8 @@ omarchy-theme-install https://github.com/minhajshafin/omarchy-fern-dusk-theme
 
 Or install from the Omarchy menu: Super + Alt + Space → Install → Style → Theme
 
+After install, reload your session/theme if changes are not immediately visible.
+
 ## Included Files
 
 | File                          | Role                                                           |
@@ -80,8 +92,8 @@ Or install from the Omarchy menu: Super + Alt + Space → Install → Style → 
 | [neovim.lua](neovim.lua)      | LazyVim spec — `navarasu/onedark.nvim` (style: darker)         |
 | [btop.theme](btop.theme)      | btop gradients (green→yellow→red; cyan→green for net)          |
 | [vscode.json](vscode.json)    | VS Code theme mapping                                          |
-| [icons.theme](icons.theme)    | Papirus‑Dark icon set                                          |
-| [preview.png](preview.png)    | Main README screenshot/preview image                            |
+| [icons.theme](icons.theme)    | Yaru-sage icon set                                             |
+| [preview.png](preview.png)    | Main README screenshot/preview image                           |
 | [backgrounds/](backgrounds/)  | Wallpapers (place PNG/JPG images here)                         |
 
 ### Auto-generated Outputs
@@ -102,6 +114,8 @@ The `neovim.lua` spec pulls in `navarasu/onedark.nvim`. LazyVim will install it 
 ## Wallpapers
 
 Add dark, minimal wallpapers to `backgrounds/`. Images with deep blacks and subtle green or forest tones pair best with this palette.
+
+Tip: avoid high-saturation backgrounds so UI accents stay readable and intentional.
 
 ## Contributing
 
