@@ -2,12 +2,10 @@
 
 A dark, flat Omarchy theme built on the One Dark palette. Deep near-black backgrounds, warm grey text, and a muted green accent — calm, easy on the eyes, and quietly alive.
 
-**Preview:** Use a dark wallpaper and open a terminal or editor to see the palette in context.
-
 ## Color Palette
 
-| Role                | Hex       |
-|---------------------|-----------|
+| Role                | Hex         |
+|---------------------|-------------|
 | Background          | #1a1d23   |
 | Surface / Selection | #3e4452   |
 | Foreground          | #abb2bf   |
@@ -34,8 +32,8 @@ Or install from the Omarchy menu: Super + Alt + Space → Install → Style → 
 | File                          | Role                                                           |
 |-------------------------------|----------------------------------------------------------------|
 | [colors.toml](colors.toml)    | Core — 22-color source of truth, drives auto-generated configs |
-| [neovim.lua](neovim.lua)      | LazyVim spec — `navarasu/onedark.nvim` (style: darker)        |
-| [btop.theme](btop.theme)      | btop gradients (green→yellow→red; cyan→green for net)         |
+| [neovim.lua](neovim.lua)      | LazyVim spec — `navarasu/onedark.nvim` (style: darker)         |
+| [btop.theme](btop.theme)      | btop gradients (green→yellow→red; cyan→green for net)          |
 | [vscode.json](vscode.json)    | VS Code theme mapping                                          |
 | [icons.theme](icons.theme)    | Papirus‑Dark icon set                                          |
 | backgrounds/                  | Wallpapers (place PNG/JPG images here)                         |
