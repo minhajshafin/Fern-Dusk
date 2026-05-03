@@ -31,11 +31,11 @@ Desktop wallpaper sample: [backgrounds/omarchy.png](backgrounds/omarchy.png)
 		<th>Accent (Green)</th>
 	</tr>
 	<tr>
-		<td bgcolor="#1a1d23">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#3e4452">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#abb2bf">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#5c6370">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#98c379">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td><img src="https://img.shields.io/badge/%20-1a1d23?style=flat-square&labelColor=1a1d23&color=1a1d23" alt="#1a1d23" /></td>
+		<td><img src="https://img.shields.io/badge/%20-3e4452?style=flat-square&labelColor=3e4452&color=3e4452" alt="#3e4452" /></td>
+		<td><img src="https://img.shields.io/badge/%20-abb2bf?style=flat-square&labelColor=abb2bf&color=abb2bf" alt="#abb2bf" /></td>
+		<td><img src="https://img.shields.io/badge/%20-5c6370?style=flat-square&labelColor=5c6370&color=5c6370" alt="#5c6370" /></td>
+		<td><img src="https://img.shields.io/badge/%20-98c379?style=flat-square&labelColor=98c379&color=98c379" alt="#98c379" /></td>
 	</tr>
 	<tr>
 		<td><code>#1a1d23</code></td>
@@ -57,11 +57,11 @@ Desktop wallpaper sample: [backgrounds/omarchy.png](backgrounds/omarchy.png)
 		<th>Cyan</th>
 	</tr>
 	<tr>
-		<td bgcolor="#61afef">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#98c379">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#e5c07b">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#e06c75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td bgcolor="#56b6c2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td><img src="https://img.shields.io/badge/%20-61afef?style=flat-square&labelColor=61afef&color=61afef" alt="#61afef" /></td>
+		<td><img src="https://img.shields.io/badge/%20-98c379?style=flat-square&labelColor=98c379&color=98c379" alt="#98c379" /></td>
+		<td><img src="https://img.shields.io/badge/%20-e5c07b?style=flat-square&labelColor=e5c07b&color=e5c07b" alt="#e5c07b" /></td>
+		<td><img src="https://img.shields.io/badge/%20-e06c75?style=flat-square&labelColor=e06c75&color=e06c75" alt="#e06c75" /></td>
+		<td><img src="https://img.shields.io/badge/%20-56b6c2?style=flat-square&labelColor=56b6c2&color=56b6c2" alt="#56b6c2" /></td>
 	</tr>
 	<tr>
 		<td><code>#61afef</code></td>
