@@ -2,20 +2,65 @@
 
 A dark, flat Omarchy theme built on the One Dark palette. Deep near-black backgrounds, warm grey text, and a muted green accent — calm, easy on the eyes, and quietly alive.
 
+## Preview
+
+![Fern Dusk preview](preview.png)
+
+Desktop wallpaper sample: [backgrounds/omarchy.png](backgrounds/omarchy.png)
+
 ## Color Palette
 
-| Role                | Hex         |
-|---------------------|-------------|
-| Background          | #1a1d23   |
-| Surface / Selection | #3e4452   |
-| Foreground          | #abb2bf   |
-| Comment / Dimmed    | #5c6370   |
-| Accent (Green)      | #98c379   |
-| Blue                | #61afef   |
-| Green               | #98c379   |
-| Yellow              | #e5c07b   |
-| Red                 | #e06c75   |
-| Cyan                | #56b6c2   |
+### Core Tones
+
+<table>
+	<tr>
+		<th>Background</th>
+		<th>Surface / Selection</th>
+		<th>Foreground</th>
+		<th>Comment / Dimmed</th>
+		<th>Accent (Green)</th>
+	</tr>
+	<tr>
+		<td bgcolor="#1a1d23">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#3e4452">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#abb2bf">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#5c6370">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#98c379">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+		<td><code>#1a1d23</code></td>
+		<td><code>#3e4452</code></td>
+		<td><code>#abb2bf</code></td>
+		<td><code>#5c6370</code></td>
+		<td><code>#98c379</code></td>
+	</tr>
+</table>
+
+### Semantic Accents
+
+<table>
+	<tr>
+		<th>Blue</th>
+		<th>Green</th>
+		<th>Yellow</th>
+		<th>Red</th>
+		<th>Cyan</th>
+	</tr>
+	<tr>
+		<td bgcolor="#61afef">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#98c379">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#e5c07b">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#e06c75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td bgcolor="#56b6c2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+		<td><code>#61afef</code></td>
+		<td><code>#98c379</code></td>
+		<td><code>#e5c07b</code></td>
+		<td><code>#e06c75</code></td>
+		<td><code>#56b6c2</code></td>
+	</tr>
+</table>
 
 ## Installation
 
@@ -36,7 +81,8 @@ Or install from the Omarchy menu: Super + Alt + Space → Install → Style → 
 | [btop.theme](btop.theme)      | btop gradients (green→yellow→red; cyan→green for net)          |
 | [vscode.json](vscode.json)    | VS Code theme mapping                                          |
 | [icons.theme](icons.theme)    | Papirus‑Dark icon set                                          |
-| backgrounds/                  | Wallpapers (place PNG/JPG images here)                         |
+| [preview.png](preview.png)    | Main README screenshot/preview image                            |
+| [backgrounds/](backgrounds/)  | Wallpapers (place PNG/JPG images here)                         |
 
 ### Auto-generated Outputs
 
