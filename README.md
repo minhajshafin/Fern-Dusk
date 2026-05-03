@@ -1,44 +1,44 @@
-# One Dark Night Flat — Omarchy Theme
+# Fern Dusk — Omarchy Theme
 
-A dark, flat Omarchy theme inspired by the One Dark Night Flat VS Code palette. It emphasizes deep near-black backgrounds, warm grey text, and purple accents, with a full syntax palette across blues, greens, yellows, reds, and cyans.
+A dark, flat Omarchy theme built on the One Dark palette. Deep near-black backgrounds, warm grey text, and a muted green accent — calm, easy on the eyes, and quietly alive.
 
 **Preview:** Use a dark wallpaper and open a terminal or editor to see the palette in context.
 
 ## Color Palette
 
-| Role                 | Hex       |
-|----------------------|-----------|
-| Background           | #1e2127   |
-| Surface / Selection  | #3e4451   |
-| Foreground           | #abb2bf   |
-| Comment / Dimmed     | #5c6370   |
-| Accent (Purple)      | #c678dd   |
-| Blue                 | #61afef   |
-| Green                | #98c379   |
-| Yellow               | #e5c07b   |
-| Red                  | #e06c75   |
-| Cyan                 | #56b6c2   |
+| Role                | Hex       |
+|---------------------|-----------|
+| Background          | #1a1d23   |
+| Surface / Selection | #3e4452   |
+| Foreground          | #abb2bf   |
+| Comment / Dimmed    | #5c6370   |
+| Accent (Green)      | #98c379   |
+| Blue                | #61afef   |
+| Green               | #98c379   |
+| Yellow              | #e5c07b   |
+| Red                 | #e06c75   |
+| Cyan                | #56b6c2   |
 
 ## Installation
 
 Install via the Omarchy installer (recommended):
 
 ```bash
-omarchy-theme-install https://github.com/minhajshafin/omarchy-one-dark-night-flat-theme
+omarchy-theme-install https://github.com/minhajshafin/omarchy-fern-dusk-theme
 ```
 
 Or install from the Omarchy menu: Super + Alt + Space → Install → Style → Theme
 
 ## Included Files
 
-| File           | Role                                                              |
-|----------------|-------------------------------------------------------------------|
-| [colors.toml](colors.toml)  | Core — 22-color source of truth, drives auto-generated configs |
-| [neovim.lua](neovim.lua)   | LazyVim spec — `navarasu/onedark.nvim` (style: dark)            |
-| [btop.theme](btop.theme)   | btop gradients (green→yellow→red; cyan→purple for net)         |
-| [vscode.json](vscode.json) | VS Code theme mapping                                            |
-| [icons.theme](icons.theme) | Papirus‑Dark icon set                                            |
-| backgrounds/   | Wallpapers (place PNG/JPG images here)                            |
+| File                          | Role                                                           |
+|-------------------------------|----------------------------------------------------------------|
+| [colors.toml](colors.toml)    | Core — 22-color source of truth, drives auto-generated configs |
+| [neovim.lua](neovim.lua)      | LazyVim spec — `navarasu/onedark.nvim` (style: darker)        |
+| [btop.theme](btop.theme)      | btop gradients (green→yellow→red; cyan→green for net)         |
+| [vscode.json](vscode.json)    | VS Code theme mapping                                          |
+| [icons.theme](icons.theme)    | Papirus‑Dark icon set                                          |
+| backgrounds/                  | Wallpapers (place PNG/JPG images here)                         |
 
 ### Auto-generated Outputs
 
@@ -48,16 +48,16 @@ Omarchy's templating engine (v3.3.0+) auto-generates platform-specific configs f
 - `waybar.css`, `walker.css` — bar and launcher styles
 - `swayosd.css` — OSD overlay
 - `mako.ini` — notification colors
-- `hyprlock.conf` — lock screen / lockscreen theme
+- `hyprlock.conf` — lock screen theme
 - `chromium.theme` — browser background override
 
 ## Neovim Integration
 
-The `neovim.lua` spec pulls in `navarasu/onedark.nvim`. LazyVim will install it automatically. To tweak the style, change `style` in `neovim.lua` to `"darker"`, `"cool"`, or `"deep"`.
+The `neovim.lua` spec pulls in `navarasu/onedark.nvim`. LazyVim will install it automatically. To tweak the style, change `style` in `neovim.lua` to `"dark"`, `"cool"`, or `"deep"`.
 
 ## Wallpapers
 
-Add dark, minimal wallpapers to `backgrounds/`. Abstract images with deep blacks and subtle purple/blue tones pair best with this palette.
+Add dark, minimal wallpapers to `backgrounds/`. Images with deep blacks and subtle green or forest tones pair best with this palette.
 
 ## Contributing
 
@@ -67,4 +67,3 @@ Contributions welcome — open a PR to adjust colors, add wallpapers, or improve
 
 - Inspired by the One Dark Night Flat VSCode theme
 - Layout and build follow the Omarchy v3.3+ `colors.toml` conventions
-
