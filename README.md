@@ -31,14 +31,14 @@ Desktop wallpaper sample: [backgrounds/omarchy.png](backgrounds/omarchy.png)
 		<th>Accent (Green)</th>
 	</tr>
 	<tr>
-		<td><img src="https://img.shields.io/badge/%20-1a1d23?style=flat-square&labelColor=1a1d23&color=1a1d23" alt="#1a1d23" /></td>
+		<td><img src="https://img.shields.io/badge/%20-1c1f23?style=flat-square&labelColor=1c1f23&color=1c1f23" alt="#1c1f23" /></td>
 		<td><img src="https://img.shields.io/badge/%20-3e4452?style=flat-square&labelColor=3e4452&color=3e4452" alt="#3e4452" /></td>
 		<td><img src="https://img.shields.io/badge/%20-abb2bf?style=flat-square&labelColor=abb2bf&color=abb2bf" alt="#abb2bf" /></td>
 		<td><img src="https://img.shields.io/badge/%20-5c6370?style=flat-square&labelColor=5c6370&color=5c6370" alt="#5c6370" /></td>
 		<td><img src="https://img.shields.io/badge/%20-98c379?style=flat-square&labelColor=98c379&color=98c379" alt="#98c379" /></td>
 	</tr>
 	<tr>
-		<td><code>#1a1d23</code></td>
+		<td><code>#1c1f23</code></td>
 		<td><code>#3e4452</code></td>
 		<td><code>#abb2bf</code></td>
 		<td><code>#5c6370</code></td>
